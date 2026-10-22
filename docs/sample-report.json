@@ -1,0 +1,37 @@
+{
+  "owner": "secondary-a",
+  "complete": true,
+  "count": 3,
+  "repositories": [
+    {
+      "repository": "secondary-a/api-lab",
+      "description": "Offline study fixture",
+      "language": "Python",
+      "license": "MIT",
+      "archived": false,
+      "fork": false,
+      "default_branch": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "secondary-a/process-lab",
+      "description": "Offline study fixture",
+      "language": "Python",
+      "license": "MIT",
+      "archived": false,
+      "fork": false,
+      "default_branch": null,
+      "pushed_at": null
+    },
+    {
+      "repository": "secondary-a/queue-lab",
+      "description": "Offline study fixture",
+      "language": "Python",
+      "license": "MIT",
+      "archived": false,
+      "fork": false,
+      "default_branch": null,
+      "pushed_at": null
+    }
+  ]
+}

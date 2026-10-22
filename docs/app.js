@@ -1,4 +1,15 @@
 const events = document.querySelector('#events');
+document.querySelector('#sample').addEventListener('click', async () => {
+  const output = document.querySelector('#sample-result');
+  try {
+    const response = await fetch('sample-report.json', {credentials:'omit', signal:AbortSignal.timeout(10000)});
+    if (!response.ok) throw new Error(`Sample returned HTTP ${response.status}`);
+    const report = await response.json();
+    output.textContent = `OFFLINE FIXTURES · ${report.count} repositories · complete: ${report.complete}\n\n${report.repositories.map(row => `${row.repository} | ${row.language} | ${row.license}`).join('\n')}`;
+  } catch (error) {
+    output.textContent = error.message;
+  }
+});
 document.querySelector('#simulate').addEventListener('click', () => {
   events.replaceChildren();
   for (const message of ['Secondary A → LAB-001 queued', 'Secondary B → LAB-001 validated', 'Secondary A → LAB-001 completed']) {
