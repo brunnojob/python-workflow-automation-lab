@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="An isolated process automation laboratory with offline actors and read-only GitHub API audits.">
+<title>Workflow Automation Lab</title>
+<link rel="stylesheet" href="style.css">
+<script src="app.js" defer></script>
+</head>
+<body>
+<main>
+<nav><span class="brand">W / LAB</span><a href="https://github.com/brunnojob/python-workflow-automation-lab">Source on GitHub ↗</a></nav>
+<header><span class="eyebrow">PROCESS AUTOMATION · OPEN SOURCE</span><h1>Small workflows.<br><em>Clear boundaries.</em></h1><p>Explore a local handoff between two simulated actors, then inspect a public repository through GitHub’s read-only API.</p><div class="pills"><span>No login</span><span>No tokens</span><span>No social actions</span></div></header>
+<section class="grid">
+<article><span class="number">01 / OFFLINE</span><h2>A task, two actors</h2><p>Secondary A queues a task. Secondary B validates it. A completes the workflow. These actors are fixtures, not GitHub accounts.</p><button id="simulate">Run simulation</button><ol id="events" aria-live="polite"><li>Ready for a new workflow.</li></ol></article>
+<article><span class="number">02 / PUBLIC API</span><h2>Repository health check</h2><p>Check description, license, issues and archive status. Explicitly allow the owner before sending a request. The main account is excluded.</p><form id="audit"><label for="owner">Allowed owner</label><input id="owner" required maxlength="39" placeholder="secondary-account" autocomplete="off"><label for="repo">Repository name</label><input id="repo" required maxlength="100" placeholder="study-project" autocomplete="off"><button id="submit" type="submit">Inspect repository</button></form><pre id="result" role="status" aria-live="polite">No requests sent.</pre></article>
+</section>
+<aside><h2>Designed for study</h2><p>Strictly educational RPA and API workflow research. The Python client uses an owner allowlist, a request budget, conditional requests and explicit error handling. Neither client accepts credentials or implements stars, follows, comments or account creation. GitHub Pages hosts this static interface; Python runs locally or in CI.</p></aside>
+<footer>MIT licensed · Python standard library + vanilla JavaScript · <a href="https://docs.github.com/en/rest/using-the-rest-api/best-practices-for-using-the-rest-api">GitHub API practices</a></footer>
+</main>
+</body></html>
