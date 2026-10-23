@@ -1,5 +1,7 @@
 # Python Workflow Automation Lab
 
+**[Open the live demo](https://brunnojob.github.io/python-workflow-automation-lab/)** · [brunnodev](https://brunnodev.store)
+
 > Educational project for studying process automation, RPA boundaries and API integration. Run experiments only against resources you own or are authorized to inspect. This project does not automate social engagement or create accounts.
 
 A dependency-free Python laboratory for resumable public repository collection, isolated task handoffs and GitHub repository health checks. A static GitHub Pages interface demonstrates the workflow without a login, token or backend.
@@ -85,6 +87,10 @@ Requests are serial and bounded. Python defaults to ten requests per client inst
 Network, malformed JSON and file-output errors produce an explicit CLI error with exit code 1. Redirects are rejected rather than following a renamed repository outside the selected target. The health check reports description, license, issue availability and archived status; it is not a security audit.
 
 ## Pages
+
+**Live demo: https://brunnojob.github.io/python-workflow-automation-lab/**
+
+The demo includes an offline two-actor workflow, a read-only public repository health check, and a downloadable fixture report. No installation, login or token is required. GitHub Pages serves the interface; the Python CLI and SQLite collector run locally.
 
 The static interface is in `docs/`. Select **Settings → Pages → Deploy from a branch → main → /docs**. Local preview:
 
