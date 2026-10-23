@@ -88,6 +88,8 @@ Network, malformed JSON and file-output errors produce an explicit CLI error wit
 
 ## Pages
 
+![Interactive workflow demonstration](docs/demo-preview.jpg)
+
 **Live demo: https://brunnojob.github.io/python-workflow-automation-lab/**
 
 The demo includes an offline two-actor workflow, a read-only public repository health check, and a downloadable fixture report. No installation, login or token is required. GitHub Pages serves the interface; the Python CLI and SQLite collector run locally.
