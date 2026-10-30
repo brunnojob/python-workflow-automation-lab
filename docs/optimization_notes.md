@@ -948,3 +948,5 @@
 
 * [2026-10-30 02:55:12] update applied to module structure (Ref: 3b60e098-25)
 
+* [2026-10-30 02:55:12] improve applied to internal configs (Ref: 3b60e098-26)
+
