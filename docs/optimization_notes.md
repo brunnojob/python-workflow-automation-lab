@@ -1070,3 +1070,5 @@
 
 * [2026-10-30 02:55:35] optimize applied to internal configs (Ref: eea92f26-36)
 
+* [2026-10-30 02:55:35] update applied to inline comments (Ref: eea92f26-37)
+
