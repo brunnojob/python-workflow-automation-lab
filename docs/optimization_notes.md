@@ -202,3 +202,5 @@
 
 * [2026-10-29 21:35:05] improve applied to utilities (Ref: a78a00e3-2)
 
+* [2026-10-29 21:35:05] improve applied to inline comments (Ref: a78a00e3-3)
+
