@@ -288,3 +288,5 @@
 
 * [2026-10-29 21:35:21] format applied to module structure (Ref: a78a00e3-45)
 
+* [2026-10-29 21:35:21] format applied to utilities (Ref: a78a00e3-46)
+
