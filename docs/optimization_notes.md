@@ -124,3 +124,5 @@
 
 * [2026-10-29 21:34:34] update applied to internal configs (Ref: 3ef6378a-13)
 
+* [2026-10-29 21:34:34] improve applied to module structure (Ref: 3ef6378a-14)
+
