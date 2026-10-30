@@ -1094,3 +1094,5 @@
 
 * [2026-10-30 02:55:40] optimize applied to utilities (Ref: eea92f26-48)
 
+* [2026-10-30 02:55:40] format applied to utilities (Ref: eea92f26-49)
+
