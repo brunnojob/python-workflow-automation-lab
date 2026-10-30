@@ -704,3 +704,5 @@
 
 * [2026-10-30 02:54:21] clean applied to internal configs (Ref: 89ed1b75-3)
 
+* [2026-10-30 02:54:22] clean applied to module structure (Ref: 89ed1b75-4)
+
