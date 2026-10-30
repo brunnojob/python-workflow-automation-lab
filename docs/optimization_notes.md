@@ -166,3 +166,5 @@
 
 * [2026-10-29 21:34:40] format applied to module structure (Ref: 3ef6378a-34)
 
+* [2026-10-29 21:34:40] clean applied to internal configs (Ref: 3ef6378a-35)
+
