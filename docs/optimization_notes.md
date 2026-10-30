@@ -982,3 +982,5 @@
 
 * [2026-10-30 02:55:16] optimize applied to internal configs (Ref: 3b60e098-42)
 
+* [2026-10-30 02:55:16] clean applied to utilities (Ref: 3b60e098-43)
+
