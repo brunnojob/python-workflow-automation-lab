@@ -758,3 +758,5 @@
 
 * [2026-10-30 02:54:32] optimize applied to module structure (Ref: 89ed1b75-30)
 
+* [2026-10-30 02:54:32] format applied to inline comments (Ref: 89ed1b75-31)
+
