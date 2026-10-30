@@ -254,3 +254,5 @@
 
 * [2026-10-29 21:35:17] optimize applied to utilities (Ref: a78a00e3-28)
 
+* [2026-10-29 21:35:17] format applied to utilities (Ref: a78a00e3-29)
+
