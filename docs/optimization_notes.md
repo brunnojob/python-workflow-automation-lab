@@ -250,3 +250,5 @@
 
 * [2026-10-29 21:35:16] update applied to type hints (Ref: a78a00e3-26)
 
+* [2026-10-29 21:35:16] improve applied to utilities (Ref: a78a00e3-27)
+
