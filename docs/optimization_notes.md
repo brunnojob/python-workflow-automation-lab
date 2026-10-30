@@ -940,3 +940,5 @@
 
 * [2026-10-30 02:55:11] format applied to utilities (Ref: 3b60e098-21)
 
+* [2026-10-30 02:55:11] format applied to module structure (Ref: 3b60e098-22)
+
