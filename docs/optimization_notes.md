@@ -846,3 +846,5 @@
 
 * [2026-10-30 02:54:52] optimize applied to type hints (Ref: 949394ef-24)
 
+* [2026-10-30 02:54:52] format applied to internal configs (Ref: 949394ef-25)
+
