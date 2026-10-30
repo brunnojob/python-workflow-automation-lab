@@ -610,3 +610,5 @@
 
 * [2026-10-30 02:53:55] format applied to internal configs (Ref: 55c303f4-6)
 
+* [2026-10-30 02:53:55] update applied to module structure (Ref: 55c303f4-7)
+
