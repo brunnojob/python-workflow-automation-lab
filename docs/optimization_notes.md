@@ -608,3 +608,5 @@
 
 * [2026-10-30 02:53:54] improve applied to utilities (Ref: 55c303f4-5)
 
+* [2026-10-30 02:53:55] format applied to internal configs (Ref: 55c303f4-6)
+
