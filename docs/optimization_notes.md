@@ -442,3 +442,5 @@
 
 * [2026-10-29 21:37:52] improve applied to utilities (Ref: 2963bb20-22)
 
+* [2026-10-29 21:37:53] update applied to internal configs (Ref: 2963bb20-23)
+
