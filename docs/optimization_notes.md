@@ -122,3 +122,5 @@
 
 * [2026-10-29 21:34:34] update applied to utilities (Ref: 3ef6378a-12)
 
+* [2026-10-29 21:34:34] update applied to internal configs (Ref: 3ef6378a-13)
+
