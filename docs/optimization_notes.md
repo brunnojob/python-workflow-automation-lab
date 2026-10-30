@@ -366,3 +366,5 @@
 
 * [2026-10-29 21:36:19] improve applied to utilities (Ref: b03c057e-34)
 
+* [2026-10-29 21:36:19] update applied to internal configs (Ref: b03c057e-35)
+
