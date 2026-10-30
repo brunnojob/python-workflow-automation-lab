@@ -456,3 +456,5 @@
 
 * [2026-10-29 21:37:56] format applied to utilities (Ref: 2963bb20-29)
 
+* [2026-10-29 21:37:57] improve applied to module structure (Ref: 2963bb20-30)
+
