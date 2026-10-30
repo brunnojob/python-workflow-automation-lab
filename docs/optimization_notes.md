@@ -162,3 +162,5 @@
 
 * [2026-10-29 21:34:39] improve applied to module structure (Ref: 3ef6378a-32)
 
+* [2026-10-29 21:34:39] format applied to utilities (Ref: 3ef6378a-33)
+
