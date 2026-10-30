@@ -290,3 +290,5 @@
 
 * [2026-10-29 21:35:21] format applied to utilities (Ref: a78a00e3-46)
 
+* [2026-10-29 21:35:22] format applied to internal configs (Ref: a78a00e3-47)
+
