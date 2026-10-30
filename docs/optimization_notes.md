@@ -242,3 +242,5 @@
 
 * [2026-10-29 21:35:14] improve applied to type hints (Ref: a78a00e3-22)
 
+* [2026-10-29 21:35:14] update applied to internal configs (Ref: a78a00e3-23)
+
