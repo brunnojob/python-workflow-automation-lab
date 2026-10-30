@@ -618,3 +618,5 @@
 
 * [2026-10-30 02:53:56] clean applied to internal configs (Ref: 55c303f4-10)
 
+* [2026-10-30 02:53:56] improve applied to internal configs (Ref: 55c303f4-11)
+
