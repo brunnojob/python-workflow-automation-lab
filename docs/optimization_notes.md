@@ -1090,3 +1090,5 @@
 
 * [2026-10-30 02:55:40] improve applied to type hints (Ref: eea92f26-46)
 
+* [2026-10-30 02:55:40] format applied to type hints (Ref: eea92f26-47)
+
