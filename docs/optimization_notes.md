@@ -370,3 +370,5 @@
 
 * [2026-10-29 21:36:20] update applied to utilities (Ref: b03c057e-36)
 
+* [2026-10-29 21:36:20] optimize applied to internal configs (Ref: b03c057e-37)
+
