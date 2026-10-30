@@ -606,3 +606,5 @@
 
 * [2026-10-30 02:53:54] improve applied to type hints (Ref: 55c303f4-4)
 
+* [2026-10-30 02:53:54] improve applied to utilities (Ref: 55c303f4-5)
+
