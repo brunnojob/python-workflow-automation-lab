@@ -864,3 +864,5 @@
 
 * [2026-10-30 02:54:54] update applied to utilities (Ref: 949394ef-33)
 
+* [2026-10-30 02:54:54] update applied to internal configs (Ref: 949394ef-34)
+
