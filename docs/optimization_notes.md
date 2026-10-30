@@ -962,3 +962,5 @@
 
 * [2026-10-30 02:55:14] optimize applied to internal configs (Ref: 3b60e098-32)
 
+* [2026-10-30 02:55:14] improve applied to internal configs (Ref: 3b60e098-33)
+
