@@ -884,3 +884,5 @@
 
 * [2026-10-30 02:54:56] optimize applied to module structure (Ref: 949394ef-43)
 
+* [2026-10-30 02:54:56] format applied to internal configs (Ref: 949394ef-44)
+
