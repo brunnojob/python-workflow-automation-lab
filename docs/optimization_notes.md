@@ -246,3 +246,5 @@
 
 * [2026-10-29 21:35:15] optimize applied to internal configs (Ref: a78a00e3-24)
 
+* [2026-10-29 21:35:15] clean applied to internal configs (Ref: a78a00e3-25)
+
