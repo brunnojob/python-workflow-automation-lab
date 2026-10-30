@@ -182,3 +182,5 @@
 
 * [2026-10-29 21:34:43] clean applied to type hints (Ref: 3ef6378a-42)
 
+* [2026-10-29 21:34:43] clean applied to module structure (Ref: 3ef6378a-43)
+
