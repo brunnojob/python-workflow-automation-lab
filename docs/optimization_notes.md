@@ -136,3 +136,5 @@
 
 * [2026-10-29 21:34:35] format applied to internal configs (Ref: 3ef6378a-19)
 
+* [2026-10-29 21:34:36] clean applied to inline comments (Ref: 3ef6378a-20)
+
