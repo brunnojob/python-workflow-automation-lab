@@ -500,3 +500,5 @@
 
 * [2026-10-30 02:53:32] improve applied to type hints (Ref: e5a80619-1)
 
+* [2026-10-30 02:53:32] improve applied to module structure (Ref: e5a80619-2)
+
