@@ -240,3 +240,5 @@
 
 * [2026-10-29 21:35:13] format applied to internal configs (Ref: a78a00e3-21)
 
+* [2026-10-29 21:35:14] improve applied to type hints (Ref: a78a00e3-22)
+
