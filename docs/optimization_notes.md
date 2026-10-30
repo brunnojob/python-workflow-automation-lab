@@ -904,3 +904,5 @@
 
 * [2026-10-30 02:55:08] optimize applied to internal configs (Ref: 3b60e098-3)
 
+* [2026-10-30 02:55:08] format applied to internal configs (Ref: 3b60e098-4)
+
