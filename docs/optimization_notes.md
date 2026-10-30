@@ -8,3 +8,5 @@
 
 * [2026-10-29 21:34:03] format applied to type hints (Ref: e379356e-5)
 
+* [2026-10-29 21:34:03] clean applied to utilities (Ref: e379356e-6)
+
