@@ -112,3 +112,5 @@
 
 * [2026-10-29 21:34:32] clean applied to type hints (Ref: 3ef6378a-7)
 
+* [2026-10-29 21:34:32] format applied to utilities (Ref: 3ef6378a-8)
+
