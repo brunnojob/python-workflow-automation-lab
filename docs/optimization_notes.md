@@ -294,3 +294,5 @@
 
 * [2026-10-29 21:35:22] clean applied to internal configs (Ref: a78a00e3-48)
 
+* [2026-10-29 21:35:22] improve applied to internal configs (Ref: a78a00e3-49)
+
