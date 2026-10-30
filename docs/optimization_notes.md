@@ -458,3 +458,5 @@
 
 * [2026-10-29 21:37:57] improve applied to module structure (Ref: 2963bb20-30)
 
+* [2026-10-29 21:37:57] optimize applied to internal configs (Ref: 2963bb20-31)
+
