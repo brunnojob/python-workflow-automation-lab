@@ -230,3 +230,5 @@
 
 * [2026-10-29 21:35:10] format applied to module structure (Ref: a78a00e3-16)
 
+* [2026-10-29 21:35:10] update applied to inline comments (Ref: a78a00e3-17)
+
