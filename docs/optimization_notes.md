@@ -476,3 +476,5 @@
 
 * [2026-10-29 21:37:59] optimize applied to inline comments (Ref: 2963bb20-39)
 
+* [2026-10-29 21:37:59] format applied to inline comments (Ref: 2963bb20-40)
+
