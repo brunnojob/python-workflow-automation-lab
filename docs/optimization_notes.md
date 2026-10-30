@@ -938,3 +938,5 @@
 
 * [2026-10-30 02:55:11] optimize applied to utilities (Ref: 3b60e098-20)
 
+* [2026-10-30 02:55:11] format applied to utilities (Ref: 3b60e098-21)
+
