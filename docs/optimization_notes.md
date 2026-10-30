@@ -284,3 +284,5 @@
 
 * [2026-10-29 21:35:21] update applied to utilities (Ref: a78a00e3-43)
 
+* [2026-10-29 21:35:21] improve applied to module structure (Ref: a78a00e3-44)
+
