@@ -632,3 +632,5 @@
 
 * [2026-10-30 02:53:58] format applied to internal configs (Ref: 55c303f4-17)
 
+* [2026-10-30 02:53:58] format applied to inline comments (Ref: 55c303f4-18)
+
