@@ -494,3 +494,5 @@
 
 * [2026-10-29 21:38:13] format applied to internal configs (Ref: 2963bb20-48)
 
+* [2026-10-29 21:38:17] clean applied to type hints (Ref: 2963bb20-49)
+
