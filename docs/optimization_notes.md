@@ -1048,3 +1048,5 @@
 
 * [2026-10-30 02:55:33] improve applied to inline comments (Ref: eea92f26-25)
 
+* [2026-10-30 02:55:33] clean applied to internal configs (Ref: eea92f26-26)
+
