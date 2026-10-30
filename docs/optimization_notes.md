@@ -422,3 +422,5 @@
 
 * [2026-10-29 21:37:45] clean applied to inline comments (Ref: 2963bb20-12)
 
+* [2026-10-29 21:37:45] format applied to utilities (Ref: 2963bb20-13)
+
