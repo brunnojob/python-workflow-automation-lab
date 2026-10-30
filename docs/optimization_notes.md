@@ -964,3 +964,5 @@
 
 * [2026-10-30 02:55:14] improve applied to internal configs (Ref: 3b60e098-33)
 
+* [2026-10-30 02:55:14] update applied to utilities (Ref: 3b60e098-34)
+
