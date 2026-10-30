@@ -694,3 +694,5 @@
 
 * [2026-10-30 02:54:08] improve applied to utilities (Ref: 55c303f4-48)
 
+* [2026-10-30 02:54:08] update applied to internal configs (Ref: 55c303f4-49)
+
