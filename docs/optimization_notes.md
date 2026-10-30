@@ -980,3 +980,5 @@
 
 * [2026-10-30 02:55:16] improve applied to module structure (Ref: 3b60e098-41)
 
+* [2026-10-30 02:55:16] optimize applied to internal configs (Ref: 3b60e098-42)
+
