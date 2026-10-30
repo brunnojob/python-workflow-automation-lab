@@ -430,3 +430,5 @@
 
 * [2026-10-29 21:37:47] update applied to utilities (Ref: 2963bb20-16)
 
+* [2026-10-29 21:37:47] optimize applied to internal configs (Ref: 2963bb20-17)
+
