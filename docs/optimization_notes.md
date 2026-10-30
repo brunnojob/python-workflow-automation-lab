@@ -1038,3 +1038,5 @@
 
 * [2026-10-30 02:55:32] optimize applied to internal configs (Ref: eea92f26-20)
 
+* [2026-10-30 02:55:32] clean applied to internal configs (Ref: eea92f26-21)
+
