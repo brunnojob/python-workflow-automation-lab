@@ -300,3 +300,5 @@
 
 * [2026-10-29 21:35:59] format applied to internal configs (Ref: b03c057e-1)
 
+* [2026-10-29 21:36:00] clean applied to inline comments (Ref: b03c057e-2)
+
