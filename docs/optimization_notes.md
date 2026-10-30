@@ -974,3 +974,5 @@
 
 * [2026-10-30 02:55:15] improve applied to internal configs (Ref: 3b60e098-38)
 
+* [2026-10-30 02:55:15] improve applied to utilities (Ref: 3b60e098-39)
+
