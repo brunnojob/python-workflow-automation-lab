@@ -304,3 +304,5 @@
 
 * [2026-10-29 21:36:00] format applied to type hints (Ref: b03c057e-3)
 
+* [2026-10-29 21:36:01] format applied to inline comments (Ref: b03c057e-4)
+
