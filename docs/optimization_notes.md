@@ -408,3 +408,5 @@
 
 * [2026-10-29 21:37:41] update applied to module structure (Ref: 2963bb20-5)
 
+* [2026-10-29 21:37:41] improve applied to internal configs (Ref: 2963bb20-6)
+
