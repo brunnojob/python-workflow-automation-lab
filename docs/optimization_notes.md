@@ -1062,3 +1062,5 @@
 
 * [2026-10-30 02:55:34] clean applied to type hints (Ref: eea92f26-32)
 
+* [2026-10-30 02:55:34] format applied to internal configs (Ref: eea92f26-33)
+
