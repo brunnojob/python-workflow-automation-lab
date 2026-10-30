@@ -116,3 +116,5 @@
 
 * [2026-10-29 21:34:33] optimize applied to internal configs (Ref: 3ef6378a-9)
 
+* [2026-10-29 21:34:33] format applied to module structure (Ref: 3ef6378a-10)
+
