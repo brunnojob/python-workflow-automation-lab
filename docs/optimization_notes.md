@@ -180,3 +180,5 @@
 
 * [2026-10-29 21:34:42] format applied to utilities (Ref: 3ef6378a-41)
 
+* [2026-10-29 21:34:43] clean applied to type hints (Ref: 3ef6378a-42)
+
