@@ -506,3 +506,5 @@
 
 * [2026-10-30 02:53:32] clean applied to utilities (Ref: e5a80619-4)
 
+* [2026-10-30 02:53:33] format applied to utilities (Ref: e5a80619-5)
+
