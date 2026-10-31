@@ -1530,3 +1530,5 @@
 
 * [2026-10-31 01:26:10] improve applied to internal configs (Ref: eb0d3dda-16)
 
+* [2026-10-31 01:26:10] update applied to inline comments (Ref: eb0d3dda-17)
+
