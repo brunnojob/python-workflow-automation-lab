@@ -1172,3 +1172,5 @@
 
 * [2026-10-31 01:24:52] format applied to internal configs (Ref: 73330855-37)
 
+* [2026-10-31 01:24:53] format applied to type hints (Ref: 73330855-38)
+
