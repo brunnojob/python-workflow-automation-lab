@@ -1668,3 +1668,5 @@
 
 * [2026-10-31 01:26:30] format applied to inline comments (Ref: 34252662-35)
 
+* [2026-10-31 01:26:30] format applied to utilities (Ref: 34252662-36)
+
