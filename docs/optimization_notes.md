@@ -1458,3 +1458,5 @@
 
 * [2026-10-31 01:25:53] format applied to type hints (Ref: fb141898-30)
 
+* [2026-10-31 01:25:53] clean applied to internal configs (Ref: fb141898-31)
+
