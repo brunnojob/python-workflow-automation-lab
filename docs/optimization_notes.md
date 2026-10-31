@@ -1272,3 +1272,5 @@
 
 * [2026-10-31 01:25:12] optimize applied to inline comments (Ref: 62431991-37)
 
+* [2026-10-31 01:25:12] format applied to utilities (Ref: 62431991-38)
+
