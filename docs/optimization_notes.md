@@ -1280,3 +1280,5 @@
 
 * [2026-10-31 01:25:13] format applied to internal configs (Ref: 62431991-41)
 
+* [2026-10-31 01:25:13] improve applied to inline comments (Ref: 62431991-42)
+
