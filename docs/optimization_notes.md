@@ -1584,3 +1584,5 @@
 
 * [2026-10-31 01:26:14] update applied to type hints (Ref: eb0d3dda-43)
 
+* [2026-10-31 01:26:14] format applied to utilities (Ref: eb0d3dda-44)
+
