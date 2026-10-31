@@ -1544,3 +1544,5 @@
 
 * [2026-10-31 01:26:11] update applied to utilities (Ref: eb0d3dda-23)
 
+* [2026-10-31 01:26:11] clean applied to internal configs (Ref: eb0d3dda-24)
+
