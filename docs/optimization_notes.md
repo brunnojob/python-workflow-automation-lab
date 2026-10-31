@@ -1546,3 +1546,5 @@
 
 * [2026-10-31 01:26:11] clean applied to internal configs (Ref: eb0d3dda-24)
 
+* [2026-10-31 01:26:11] improve applied to module structure (Ref: eb0d3dda-25)
+
