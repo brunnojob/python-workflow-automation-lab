@@ -1380,3 +1380,5 @@
 
 * [2026-10-31 01:25:37] improve applied to utilities (Ref: 79af7fec-41)
 
+* [2026-10-31 01:25:37] format applied to internal configs (Ref: 79af7fec-42)
+
