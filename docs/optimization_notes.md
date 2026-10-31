@@ -1382,3 +1382,5 @@
 
 * [2026-10-31 01:25:37] format applied to internal configs (Ref: 79af7fec-42)
 
+* [2026-10-31 01:25:38] format applied to inline comments (Ref: 79af7fec-43)
+
