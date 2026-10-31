@@ -1354,3 +1354,5 @@
 
 * [2026-10-31 01:25:35] improve applied to module structure (Ref: 79af7fec-28)
 
+* [2026-10-31 01:25:35] improve applied to inline comments (Ref: 79af7fec-29)
+
