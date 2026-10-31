@@ -1548,3 +1548,5 @@
 
 * [2026-10-31 01:26:11] improve applied to module structure (Ref: eb0d3dda-25)
 
+* [2026-10-31 01:26:11] optimize applied to internal configs (Ref: eb0d3dda-26)
+
