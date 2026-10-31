@@ -1402,3 +1402,5 @@
 
 * [2026-10-31 01:25:49] improve applied to internal configs (Ref: fb141898-2)
 
+* [2026-10-31 01:25:49] improve applied to inline comments (Ref: fb141898-3)
+
